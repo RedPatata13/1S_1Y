@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "23102023_FinalsOptimization/1.0.0": {
+        "runtime": {
+          "23102023_FinalsOptimization.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "23102023_FinalsOptimization/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
